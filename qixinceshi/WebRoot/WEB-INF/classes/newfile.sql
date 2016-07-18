@@ -1,0 +1,1 @@
+update qixinapp.qixinpro set proname = '王心怡' and prohead='20050616062220742[1].jpg' and promotto ='智商高，无节操！'  where idqixinpro = 1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="qixinceshi"
+  id="myeclipse.1462330099163"
+  context-root="/qixin"
+  j2ee-spec="6.0"
+  archive="qixinceshi.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

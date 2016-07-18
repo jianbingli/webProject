@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>testFrame</servlet-name>
+    <servlet-class>webService.testFrame</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>webService</servlet-name>
+    <servlet-class>webService.webService</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>downLoads</servlet-name>
+    <servlet-class>download.downLoads</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>editFlie</servlet-name>
+    <servlet-class>webService.editFlie</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FileNameSelect</servlet-name>
+    <servlet-class>webService.FileNameSelect</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectALLfile</servlet-name>
+    <servlet-class>webService.selectALLfile</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelectFiles</servlet-name>
+    <servlet-class>webService.Delect</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelectFiel</servlet-name>
+    <servlet-class>webService.DelectFiel</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>getTextusers</servlet-name>
+    <servlet-class>webService.getTextusers</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectUserbyphone</servlet-name>
+    <servlet-class>webService.selectUserbyphone</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>addTestuser</servlet-name>
+    <servlet-class>webService.addTestuser</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>fortest</servlet-name>
+    <servlet-class>webService.fortest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>alledition</servlet-name>
+    <servlet-class>webService.alledition</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>alledforphone</servlet-name>
+    <servlet-class>webService.alledforphone</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>androidedtiomNameSelect</servlet-name>
+    <servlet-class>webService.androidedtiomNameSelect</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>addandroidedtion</servlet-name>
+    <servlet-class>webService.addandroidedtion</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>updateours</servlet-name>
+    <servlet-class>webService.updateours</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectallqixinpro</servlet-name>
+    <servlet-class>webService.selectallqixinpro</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectonePro</servlet-name>
+    <servlet-class>webService.selectonePro</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>addqixinpro</servlet-name>
+    <servlet-class>webService.addqixinpro</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>deleteqixnpro</servlet-name>
+    <servlet-class>webService.deleteqixnpro</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>deletandroidedtion</servlet-name>
+    <servlet-class>webService.deletandroidedtion</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>deletetestuser</servlet-name>
+    <servlet-class>webService.deletetestuser</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>getUrlWeb</servlet-name>
+    <servlet-class>webService.getUrlWeb</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>testFrame</servlet-name>
+    <url-pattern>/testFrame</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>webService</servlet-name>
+    <url-pattern>/webService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>downLoads</servlet-name>
+    <url-pattern>/downLoads</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>editFlie</servlet-name>
+    <url-pattern>/editFlie</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FileNameSelect</servlet-name>
+    <url-pattern>/FileNameSelect</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectALLfile</servlet-name>
+    <url-pattern>/selectALLfile</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelectFiles</servlet-name>
+    <url-pattern>/Delect</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelectFiel</servlet-name>
+    <url-pattern>/DelectFiel</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>getTextusers</servlet-name>
+    <url-pattern>/getTextusers</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectUserbyphone</servlet-name>
+    <url-pattern>/selectUserbyphone</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addTestuser</servlet-name>
+    <url-pattern>/addTestuser</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>fortest</servlet-name>
+    <url-pattern>/fortest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>alledition</servlet-name>
+    <url-pattern>/alledition</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>alledforphone</servlet-name>
+    <url-pattern>/alledforphone</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>androidedtiomNameSelect</servlet-name>
+    <url-pattern>/androidedtiomNameSelect</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addandroidedtion</servlet-name>
+    <url-pattern>/addandroidedtion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updateours</servlet-name>
+    <url-pattern>/updateours</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectallqixinpro</servlet-name>
+    <url-pattern>/selectallqixinpro</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectonePro</servlet-name>
+    <url-pattern>/selectonePro</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addqixinpro</servlet-name>
+    <url-pattern>/addqixinpro</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>deleteqixnpro</servlet-name>
+    <url-pattern>/deleteqixnpro</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>deletandroidedtion</servlet-name>
+    <url-pattern>/deletandroidedtion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>deletetestuser</servlet-name>
+    <url-pattern>/deletetestuser</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>getUrlWeb</servlet-name>
+    <url-pattern>/getUrlWeb</url-pattern>
+  </servlet-mapping>	
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
