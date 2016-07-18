@@ -59,7 +59,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<div id="content"> 
 				<div id="jieshao"> 
 					<div id="linear"> 
-					<font style="font-weight:bold;font-style:italic;">企信介绍</font>		
+					<font style="font-weight:bold;font-style:italic;">介绍</font>		
 					</div> 
 					<div>
 							<h1  class="demo-text" >测</h1>
@@ -68,7 +68,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				</div> 	
 				<div id="xinwen"> 
 					<div id="linear">
-					<font style="font-weight:bold;font-style:italic;" >企信新闻</font>
+					<font style="font-weight:bold;font-style:italic;" >新闻</font>
 					
 					</div>
 					<center><img id=obj src ="imgs/1.JPG" width=80% height=150 border =0></center>
@@ -79,13 +79,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					</div>
 					<br>
 					<div > 
-						<center><a href="http://192.168.1.122:8080/issues/?filter=-1" target="_blank">---------JIRA---------</a></center>
-						<center><a href="http://192.168.1.118/testlink/login.php" target="_blank">--------TestLink------</a></center>
-						       <center><a href="${pageContext.request.contextPath }/selectallqixinpro">-------成员修改------</a></center>
+						<center><a href="${pageContext.request.contextPath }/selectallqixinpro">-------成员修改------</a></center>
 						<center><a href="${pageContext.request.contextPath }/selectALLfile">-------下载文件------</a></center>
 						<center><a href="${pageContext.request.contextPath }/alledition">-----其他版本下载----</a></center>
 						<center><a href="${pageContext.request.contextPath }/doubideshijienibudong.jsp">---逗逼的世界你不懂--</a></center>
-						<center><a href="http://192.168.1.132/" target="_blank">---共享资源--</a></center>
 					</div>
 				</div>
 		</div> 

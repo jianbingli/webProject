@@ -58,17 +58,17 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<!-- 底部 --> 
 		<div id="foot" style="min-width:980px;">
 				<div id="footfootfirst">
-				上海企信企业发展有限公司是为全球中小型企业提供标准化、流程化、系统化的管理协作解决方案，以开放、创 新、连接为核心思维帮助全球中小型企业发展，共建全行业大数据的社会化服务云平台。 
+				上海。 
 				</div>
 				<div id="footfoot">
-				公司运用移动互联网、云计算、大数据等技术助力中小型企业，在移动互联网时代快速高效的发展，成为智慧型企业，共同构建全新的企业健康生态圈。 </div>
+				公司 </div>
 				
 				<div id="footfoot">
-				公司使命 :以开放、创新、连接为核心思维帮助全球中小型企业发展，共建全行业大数据平台，构建智慧型企业。 </div>
+				公司使命 : </div>
 				<div id="footfoot">
-				公司愿景 :打造全球最有效的企业社会化服务云平台。 </div>
+				公司愿景 : </div>
 				<div id="footfoot">
-				公司宗旨:为改变而生，构建企业健康生态圈。
+				公司宗旨
 				</div>
 		</div> 
 		<!-- END 底部 --> 

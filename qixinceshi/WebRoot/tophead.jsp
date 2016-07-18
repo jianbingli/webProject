@@ -61,17 +61,15 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					</div> 
 		
 					<div id="kouhao">
-     					<font color="green" style="font-weight:bold;font-style:italic;">打造全球最有效的企业社会化服务云平台</font>
+     					<font color="green" style="font-weight:bold;font-style:italic;">标语</font>
 					</div>
 					
 					<div class="top-menu">
 							
 							<ul>
 								<li><a href="index.jsp">首页</a></li>
-								<li><a href="http://192.168.1.118/testlink/login.php" target="_blank">TestLink</a></li>
 								<li><a href="${pageContext.request.contextPath }/selectALLfile">文件</a></li>
 								<li><a href="${pageContext.request.contextPath }/getTextusers">测试用户</a></li>
-								<li><a href="http://192.168.1.122:8080/issues/?filter=-1" target="_blank">JIRA</a></li>
 								<li><a href="contentme.jsp">联系我</a></li>
 							</ul>	
 							
